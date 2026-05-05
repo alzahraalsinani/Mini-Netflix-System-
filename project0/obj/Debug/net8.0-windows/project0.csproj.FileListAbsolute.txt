@@ -1,0 +1,16 @@
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.Form1.resources
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.csproj.GenerateResource.cache
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.AssemblyInfoInputs.cache
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.AssemblyInfo.cs
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.csproj.CoreCompileInputs.cache
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\bin\Debug\net8.0-windows\project0.exe
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\bin\Debug\net8.0-windows\project0.deps.json
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\bin\Debug\net8.0-windows\project0.runtimeconfig.json
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\bin\Debug\net8.0-windows\project0.dll
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\bin\Debug\net8.0-windows\project0.pdb
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.dll
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\refint\project0.dll
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.pdb
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\project0.genruntimeconfig.cache
+C:\Users\CodeLine\OneDrive\المستندات\Solutions\solution13\project0\obj\Debug\net8.0-windows\ref\project0.dll
